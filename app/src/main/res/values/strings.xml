@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BERITA UTDI TERKINI</string>
+
+    // dwi septo mardianto 203310029 : menampilkan caption pada card
+    <string name="affirmation1">POLDA DIY Kembali Gandeng UTDI Gelar Test Psikotest Tertulis</string>
+    <string name="affirmation2">UTDI Gandeng RSPAU Hardjolukito Laksanakan Vaksinasi Booster Covid-19</string>
+    <string name="affirmation3">Migrasi Data STMIK Akakom ke UTDI Lancar, Tunjang Proses Akademik dan Pelayanan</string>
+    <string name="affirmation4">UTDI Adakan Pelatihan Mobile Programming untuk Siswa SMK N 1 Kebumen</string>
+    <string name="affirmation5">Prof Adhi Susanto Ketua Pembina Yayasan–UTDI Menerima Anugerah UGM 2021</string>
+    <string name="affirmation6">4 Dosen UTDI Lolos Uji Kompetensi Asesor BKD</string>
+    <string name="affirmation7">UTDI Laksanakan Pelatihan Otomatisasi Administrasi Perkantoran di SMK N 2 Ponorogo</string>
+    <string name="affirmation8">Taekwondo UTDI Raih Emas di Kejurnas Sulawesi Tengah</string>
+    <string name="affirmation9">Universitas Teknologi Digital Indonesia (UTDI) Jadi Tuan Rumah POR BAPOMI DIY 2021</string>
+    <string name="affirmation10">Polda DIY Gandeng UTDI Laksanakan Tes CAT</string>
+</resources>
